@@ -8,7 +8,7 @@ Each input has an icon in the left side of the input fields.
 
 Each input also has an Error or an Success Icon that will appeare on the right side in the input field, if you made a mistake or if you filled out the form correctly.
 
-If you make an error a red text massage will appear under the input fields along with the error Icon. 
+If you make an error a red text massage will appear under the input fields along with the error Icon inside the input fields. 
 
 I styled the Submit Form in CSS.
 
